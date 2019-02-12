@@ -1,7 +1,4 @@
-N=int(input())
-count=0
-while N!=0:
-    N=N//10
-    count+=1
-print(count)
-    
+a=int(input())
+N=str(a)
+digits=len(N)
+print(digits)
