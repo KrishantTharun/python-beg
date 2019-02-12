@@ -4,7 +4,7 @@ if ya.isalpha():
     if xa=='a' or xa=='e' or xa=='i' or xa=='o' or xa=='u':
         print("Vowel")
     else:
-        print(" Consonant")
+        print("Consonant")
 else:
     print("Invalid")
     
