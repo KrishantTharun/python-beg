@@ -1,0 +1,10 @@
+d=input()
+if d.isnumeric():
+    c=int(d)
+    if c%2==0:
+        print("even")
+    else :
+        print("odd")
+else:
+    print("invalid")
+    
