@@ -2,9 +2,9 @@ d=input()
 if d.isnumeric():
     c=int(d)
     if c%2==0:
-        print("even")
+        print("Even")
     else :
-        print("odd")
+        print("Odd")
 else:
-    print("invalid")
+    print("Invalid")
     
